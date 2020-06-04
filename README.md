@@ -2,10 +2,4 @@
 
 This is a really awesome website
 
-
-Updating on update-readme branch.
-
-
-Now editing on update-readme branch.
-
-Updated Locally
+Updates made on master branch before rebase.
